@@ -1,0 +1,3 @@
+/home/bt/semestr6/labs/wsi/cmake-build-debug/CMakeFiles/wsi.dir
+/home/bt/semestr6/labs/wsi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bt/semestr6/labs/wsi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
